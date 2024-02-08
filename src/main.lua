@@ -8,7 +8,7 @@ events:on("OnPlayerSpawn", function(playerid)
 end)
 
 function GetPluginAuthor()
-    return "moongetsu"
+    return "Swiftly Solution"
 end
 function GetPluginVersion()
     return "v1.0.0"
